@@ -2,7 +2,8 @@
 
 https://www.youtube.com/watch?v=dbiNhAZlXZk
 
-
+# code is here
+https://github.com/pleabargain/life_strategy
 
 
 The list of values can easily be modified.
