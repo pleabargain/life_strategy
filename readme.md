@@ -21,7 +21,7 @@ In the final main.py the db code is edited so that it doesn't wipe out my db eac
 
 I'm a fan of UUID since it' much much harder to stumble on a duplicate.
 
-telling GPT4 what to do
+Telling GPT4 (or any LLM / Gen AI) what to do is a work in patience and forethought.
 
 # learning
 
